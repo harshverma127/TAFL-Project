@@ -12,12 +12,12 @@ npm run dev
 
 | Requirement | Implementation |
 |---|---|
-| Input CFG → generate PDA | ✅ Sipser 3-state construction |
-| Step-by-step explanation | ✅ 5 phases, colour-coded, with full description per step |
-| PDA → CFG conversion | ✅ Triple construction with derivation proof |
-| Visual PDA diagram | ✅ Animated SVG — pulse ring, glow halos, phase colours |
-| Visual CFG representation | ✅ Colour-coded grammar rules panel |
-| Highlight equivalence | ✅ Equivalence theorem banner + Sipser proof explanation |
+| Input CFG → generate PDA | Sipser 3-state construction |
+| Step-by-step explanation | 5 phases, colour-coded, with full description per step |
+| PDA → CFG conversion | Triple construction with derivation proof |
+| Visual PDA diagram | Animated SVG — pulse ring, glow halos, phase colours |
+| Visual CFG representation | Colour-coded grammar rules panel |
+| Highlight equivalence | Equivalence theorem banner + Sipser proof explanation |
 
 ### Extra-marks features
 
