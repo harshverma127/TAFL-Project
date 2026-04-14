@@ -1,16 +1,14 @@
 # CFG ↔ PDA Visualizer — v3.0 (Final)
 
+🚀 **Live Demo:** [https://tafl-project-hazel.vercel.app/](https://tafl-project-hazel.vercel.app/)
+
 ## Setup
 
+**To run locally:**
 ```bash
 npm install
 npm run dev
-# open http://localhost:5173
-```
 
-## What's in this version
-
-### Problem statement coverage (full marks)
 
 | Requirement | Implementation |
 |---|---|
