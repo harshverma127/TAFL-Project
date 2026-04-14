@@ -1,4 +1,4 @@
-# CFG ↔ PDA Visualizer — v3.0 (Final)
+# CFG ↔ PDA Converter and Visualizer 
 
 🚀 **Live Demo:** [https://tafl-project-hazel.vercel.app/](https://tafl-project-hazel.vercel.app/)
 
